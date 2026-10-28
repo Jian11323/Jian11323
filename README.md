@@ -64,7 +64,9 @@
 | 主站 | https://sismotide.top/ |
 | API | https://api.sismotide.top/ |
 | StarQuake | https://sismotide.top/starquake |
-| QQ 群 | [加入交流群](https://qm.qq.com/q/TNfsVfr6Mi) |
+| QQ 群 · API | [Whews / JianProject API服务](https://qm.qq.com/q/31YZbJD944) |
+| QQ 群 · 滚动字幕 | [滚动字幕用户群](https://qm.qq.com/q/ADlIoFEV2g) |
+| QQ 群 · StarQuake | [StarQuake用户群](https://qm.qq.com/q/2dz19Zedu8) |
 
 <div align="center">
   <br>
